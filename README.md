@@ -1,5 +1,5 @@
-- i dont know, why i'm in here(?) i just joined to Github .
-- i just cant code!
+- uhmm... trying to understand how to code!
+- still learning...
 
 <!---
 LtAkmal/LtAkmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
